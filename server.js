@@ -1,6 +1,6 @@
 const express = require('express')
 const path = require('path')
-const noteData = require('./public/db/db.json')
+// const noteData = require('./public/db/db.json')
 const uuid = require('./helpers/uuid')
 const {
     readFromFile,
